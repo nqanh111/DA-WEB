@@ -835,6 +835,19 @@ const handleRegister = (e) => {
     const name = document.getElementById('register-name').value;
     const email = document.getElementById('register-email').value;
     const password = document.getElementById('register-password').value;
+    const confirmPassword = document.getElementById('register-confirm-password').value;
+    
+    // Validate password match
+    if (password !== confirmPassword) {
+        showToast('Mật khẩu không khớp! Vui lòng nhập lại.', 'error');
+        return;
+    }
+    
+    // Validate password length
+    if (password.length < 6) {
+        showToast('Mật khẩu phải có ít nhất 6 ký tự!', 'error');
+        return;
+    }
     
     // Mock registration
     const user = { name, email };
@@ -1391,11 +1404,13 @@ const initAccountPage = () => {
         document.getElementById('stat-test-drives').textContent = (storage.get('testDrives') || []).length;
         document.getElementById('stat-compare').textContent = AppState.compareList.length;
         
-        // Load favorites
-        loadCarData().then(() => {
+        // Load favorites - load all cars (new and used)
+        loadCarData(false, true).then(() => {
             renderAccountFavorites();
             renderAccountOrders();
             renderAccountTestDrives();
+        }).catch(error => {
+            console.error('Error loading car data for account page:', error);
         });
         
         // Settings form

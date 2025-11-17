@@ -2,6 +2,39 @@
    Account Page Styles
    =================================== */
 
+.account-section {
+    padding: var(--spacing-3xl) 0;
+    min-height: calc(100vh - 80px);
+}
+
+/* Login Required State */
+.account-login-required {
+    text-align: center;
+    padding: var(--spacing-4xl) var(--spacing-xl);
+    background-color: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.account-login-required svg {
+    width: 80px;
+    height: 80px;
+    color: var(--primary-color);
+    margin-bottom: var(--spacing-xl);
+}
+
+.account-login-required h2 {
+    font-size: var(--font-size-2xl);
+    margin-bottom: var(--spacing-md);
+}
+
+.account-login-required p {
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-xl);
+}
+
+/* Account Header */
 .account-header {
     display: flex;
     align-items: center;
@@ -23,8 +56,34 @@
     justify-content: center;
     font-size: var(--font-size-3xl);
     font-weight: 700;
+    flex-shrink: 0;
 }
 
+.account-info {
+    flex: 1;
+}
+
+.account-info h1 {
+    font-size: var(--font-size-2xl);
+    margin-bottom: var(--spacing-xs);
+}
+
+.account-info p {
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-sm);
+}
+
+.account-badge {
+    display: inline-block;
+    padding: var(--spacing-xs) var(--spacing-md);
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: var(--radius-full);
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+}
+
+/* Account Tabs */
 .account-tabs {
     display: flex;
     gap: var(--spacing-sm);
@@ -49,9 +108,23 @@
     white-space: nowrap;
 }
 
+.account-tab svg {
+    width: 20px;
+    height: 20px;
+}
+
+.account-tab:hover {
+    color: var(--primary-color);
+}
+
 .account-tab.active {
     color: var(--primary-color);
     border-bottom-color: var(--primary-color);
+}
+
+/* Tab Content */
+.account-tab-content {
+    animation: fadeIn 0.3s ease;
 }
 
 .tab-pane {
@@ -62,9 +135,352 @@
     display: block;
 }
 
+.tab-pane h3 {
+    font-size: var(--font-size-xl);
+    margin-bottom: var(--spacing-xl);
+}
+
+/* Account Stats */
+.account-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-2xl);
+}
+
+.stat-card {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-lg);
+    padding: var(--spacing-xl);
+    background-color: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    transition: transform var(--transition-fast);
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+}
+
+.stat-icon {
+    font-size: 2.5rem;
+}
+
+.stat-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.stat-value {
+    font-size: var(--font-size-2xl);
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.stat-label {
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+}
+
+/* Quick Actions */
+.account-quick-actions {
+    margin-top: var(--spacing-2xl);
+}
+
+.account-quick-actions h3 {
+    font-size: var(--font-size-xl);
+    margin-bottom: var(--spacing-lg);
+}
+
+.quick-actions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: var(--spacing-lg);
+}
+
+.quick-action-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-md);
+    padding: var(--spacing-xl);
+    background-color: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: all var(--transition-fast);
+}
+
+.quick-action-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    color: var(--primary-color);
+}
+
+.quick-action-card svg {
+    width: 40px;
+    height: 40px;
+}
+
+.quick-action-card span {
+    font-weight: 500;
+}
+
+/* Car Grid for Favorites */
+.car-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
+}
+
+/* Empty State */
+.empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: var(--spacing-4xl) var(--spacing-xl);
+}
+
+.empty-state svg {
+    width: 80px;
+    height: 80px;
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-xl);
+}
+
+.empty-state h3 {
+    font-size: var(--font-size-xl);
+    margin-bottom: var(--spacing-md);
+}
+
+.empty-state p {
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-xl);
+}
+
+/* Settings Form */
+.settings-form {
+    max-width: 600px;
+    margin-bottom: var(--spacing-2xl);
+}
+
+.settings-section {
+    max-width: 600px;
+    padding: var(--spacing-xl);
+    background-color: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    margin-bottom: var(--spacing-xl);
+}
+
+.settings-section h4 {
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--spacing-lg);
+}
+
+.settings-option {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.settings-option label {
+    font-weight: 500;
+}
+
+.danger-zone {
+    border: 2px solid var(--danger-color);
+}
+
+.danger-zone h4 {
+    color: var(--danger-color);
+}
+
+/* Orders List */
+#orders-list,
+#test-drives-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-lg);
+}
+
+.order-card,
+.test-drive-card {
+    padding: var(--spacing-xl);
+    background-color: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    border-left: 4px solid var(--primary-color);
+}
+
+.order-header,
+.test-drive-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--spacing-md);
+}
+
+.order-id,
+.test-drive-id {
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.order-status,
+.test-drive-status {
+    padding: var(--spacing-xs) var(--spacing-md);
+    border-radius: var(--radius-full);
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+}
+
+.order-status.pending {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+.order-status.completed {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+.order-status.cancelled {
+    background-color: #fee2e2;
+    color: #991b1b;
+}
+
+.order-details,
+.test-drive-details {
+    color: var(--text-secondary);
+    font-size: var(--font-size-sm);
+}
+
+.order-items {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+    margin-bottom: var(--spacing-md);
+}
+
+.order-item {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.order-item-image {
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: var(--radius-md);
+}
+
+.order-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: var(--spacing-md);
+    border-top: 1px solid var(--border-color);
+}
+
+.order-total {
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+/* Test Drive Card */
+.test-drive-card {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-lg);
+}
+
+.test-drive-info {
+    flex: 1;
+}
+
+.test-drive-car {
+    font-weight: 600;
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--spacing-sm);
+}
+
+.test-drive-details {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+    color: var(--text-secondary);
+    font-size: var(--font-size-sm);
+}
+
+.test-drive-actions {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    align-items: flex-end;
+}
+
+/* Responsive */
 @media (max-width: 768px) {
+    .account-section {
+        padding: var(--spacing-xl) 0;
+    }
+
     .account-header {
         flex-direction: column;
         text-align: center;
+        padding: var(--spacing-xl);
+    }
+
+    .account-tabs {
+        gap: 0;
+        overflow-x: scroll;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .account-tab {
+        flex: 1;
+        justify-content: center;
+        padding: var(--spacing-sm) var(--spacing-md);
+        font-size: var(--font-size-sm);
+    }
+
+    .account-tab svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .account-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .quick-actions-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .car-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .test-drive-card {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .test-drive-actions {
+        width: 100%;
+        align-items: stretch;
+    }
+
+    .order-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .order-item-image {
+        width: 100%;
+        height: 150px;
     }
 }
