@@ -259,6 +259,3 @@ index.html (Trang chủ)
 - Responsive breakpoints: 1024px, 768px, 480px
 
 ---
-
-**Cập nhật:** 2024
-**Version:** 1.0.0

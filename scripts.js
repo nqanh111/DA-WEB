@@ -186,10 +186,16 @@ const loadCarData = async (useUsedCars = false, loadAll = false) => {
             skeletonLoader.style.display = 'none';
         }
         
-        // Initialize UI
-        populateFilters();
-        renderCars();
-        updateBadges();
+        // Initialize UI - only call if functions exist
+        if (typeof populateFilters === 'function') {
+            populateFilters();
+        }
+        if (typeof renderCars === 'function') {
+            renderCars();
+        }
+        if (typeof updateBadges === 'function') {
+            updateBadges();
+        }
     } catch (error) {
         console.error('Error loading car data:', error);
         const skeletonLoader = document.getElementById('skeleton-loader');
@@ -1270,30 +1276,47 @@ const initModalEventListeners = () => {
 // PAGE-SPECIFIC INITIALIZATION
 // ============================================
 
-const initHomePage = () => {
-    // Load cars and separate into new and used
-    loadCarData().then(() => {
+const initHomePage = async () => {
+    // Load all cars (both new and used) for home page
+    try {
+        const response = await fetch('mock-data.json');
+        if (!response.ok) throw new Error('Failed to load data');
+        const data = await response.json();
+        
         // New Cars - Select premium new cars from different brands
-        const newCarIds = [1, 2, 4, 5, 8, 11, 17, 25]; // 8 new cars
-        const newCars = AppState.cars.filter(car => newCarIds.includes(car.id));
+        const newCarIds = [1, 2, 3, 4, 5, 6, 7, 8]; // 8 new cars
+        const newCars = data.cars.filter(car => newCarIds.includes(car.id));
         
         const newCarsGrid = document.getElementById('new-cars');
-        if (newCarsGrid) {
+        if (newCarsGrid && newCars.length > 0) {
             newCarsGrid.innerHTML = newCars.map(car => createCarCard(car)).join('');
         }
         
         // Used Cars - Select quality used cars with good prices
-        const usedCarIds = [29, 33, 37, 41, 45, 49, 53, 57]; // 8 used cars
-        const usedCars = AppState.cars.filter(car => usedCarIds.includes(car.id));
+        const usedCarIds = [101, 102, 103, 104, 105, 106, 107, 108]; // 8 used cars
+        const usedCars = data.usedCars.filter(car => usedCarIds.includes(car.id));
         
         const usedCarsGrid = document.getElementById('used-cars');
-        if (usedCarsGrid) {
+        if (usedCarsGrid && usedCars.length > 0) {
             usedCarsGrid.innerHTML = usedCars.map(car => createCarCard(car)).join('');
         }
-    });
+        
+        // Store all cars in AppState for other functions
+        AppState.cars = [...data.cars, ...data.usedCars];
+        
+        // Update badges
+        if (typeof updateBadges === 'function') {
+            updateBadges();
+        }
+    } catch (error) {
+        console.error('Error loading home page data:', error);
+        showToast('Không thể tải dữ liệu xe. Vui lòng thử lại sau.', 'error');
+    }
     
     // Initialize counters
-    initCounters();
+    if (typeof initCounters === 'function') {
+        initCounters();
+    }
 };
 
 const initCatalogPage = () => {
@@ -1312,10 +1335,27 @@ const initUsedCarsPage = () => {
 
 const initComparePage = async () => {
     // Load all cars (both new and used) for comparison
-    await loadCarData(false, true); // loadAll = true
-    
-    // Render compare section
-    renderCompare();
+    try {
+        const response = await fetch('mock-data.json');
+        if (!response.ok) throw new Error('Failed to load data');
+        const data = await response.json();
+        
+        // Load both new and used cars
+        AppState.cars = [...data.cars, ...data.usedCars];
+        
+        // Update badges
+        if (typeof updateBadges === 'function') {
+            updateBadges();
+        }
+        
+        // Render compare section
+        if (typeof renderCompare === 'function') {
+            renderCompare();
+        }
+    } catch (error) {
+        console.error('Error loading compare page data:', error);
+        showToast('Không thể tải dữ liệu xe. Vui lòng thử lại sau.', 'error');
+    }
     
     // Clear compare button
     const clearBtn = document.getElementById('clear-compare');
@@ -1323,7 +1363,9 @@ const initComparePage = async () => {
         clearBtn.addEventListener('click', () => {
             AppState.compareList = [];
             storage.set('compareList', []);
-            renderCompare();
+            if (typeof renderCompare === 'function') {
+                renderCompare();
+            }
             showToast('Đã xóa tất cả xe khỏi danh sách so sánh', 'info');
         });
     }

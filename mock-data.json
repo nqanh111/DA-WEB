@@ -22,7 +22,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 2,
       "name": "Mercedes-Benz E300 AMG",
       "brand": "Mercedes-Benz",
       "model": "E300",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 3,
       "name": "Mercedes-Benz GLC 300",
       "brand": "Mercedes-Benz",
       "model": "GLC 300",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 4,
       "name": "Mercedes-Benz S450 Luxury",
       "brand": "Mercedes-Benz",
       "model": "S450",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 5,
       "name": "Mercedes-Benz GLE 450",
       "brand": "Mercedes-Benz",
       "model": "GLE 450",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 6,
       "name": "BMW X5 xDrive40i",
       "brand": "BMW",
       "model": "X5",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 7,
       "name": "BMW 320i Sport Line",
       "brand": "BMW",
       "model": "320i",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 8,
       "name": "BMW 530i M Sport",
       "brand": "BMW",
       "model": "530i",
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 9,
       "name": "BMW X3 xDrive30i",
       "brand": "BMW",
       "model": "X3",
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 10,
       "name": "BMW 730Li Pure Excellence",
       "brand": "BMW",
       "model": "730Li",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 11,
       "name": "Audi A6 Quattro",
       "brand": "Audi",
       "model": "A6",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 12,
       "name": "Audi A4 Premium",
       "brand": "Audi",
       "model": "A4",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 13,
       "name": "Audi Q5 Sportback",
       "brand": "Audi",
       "model": "Q5",
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 14,
       "name": "Audi Q7 Premium Plus",
       "brand": "Audi",
       "model": "Q7",
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 15,
       "name": "Audi A8L 55 TFSI",
       "brand": "Audi",
       "model": "A8L",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 16,
       "name": "Lexus RX350 F-Sport",
       "brand": "Lexus",
       "model": "RX350",
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 17,
       "name": "Lexus ES250 Luxury",
       "brand": "Lexus",
       "model": "ES250",
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 18,
       "name": "Lexus NX300 F-Sport",
       "brand": "Lexus",
       "model": "NX300",
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 19,
       "name": "Lexus LX600 VIP",
       "brand": "Lexus",
       "model": "LX600",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 20,
       "name": "Lexus LS500h Luxury",
       "brand": "Lexus",
       "model": "LS500h",
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 21,
       "name": "Porsche Cayenne S",
       "brand": "Porsche",
       "model": "Cayenne",
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 22,
       "name": "Porsche 911 Carrera",
       "brand": "Porsche",
       "model": "911",
@@ -463,7 +463,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 23,
       "name": "Porsche Macan GTS",
       "brand": "Porsche",
       "model": "Macan",
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 24,
       "name": "Porsche Panamera 4S",
       "brand": "Porsche",
       "model": "Panamera",
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 25,
       "name": "Porsche Taycan Turbo S",
       "brand": "Porsche",
       "model": "Taycan",
@@ -526,7 +526,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 26,
       "name": "Toyota Camry 2.5Q",
       "brand": "Toyota",
       "model": "Camry",
@@ -547,7 +547,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 27,
       "name": "Toyota Fortuner Legender",
       "brand": "Toyota",
       "model": "Fortuner",
@@ -568,7 +568,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 28,
       "name": "Toyota Vios G CVT",
       "brand": "Toyota",
       "model": "Vios",
@@ -589,7 +589,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 29,
       "name": "Toyota Corolla Cross",
       "brand": "Toyota",
       "model": "Corolla Cross",
@@ -610,7 +610,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 30,
       "name": "Toyota Land Cruiser VX",
       "brand": "Toyota",
       "model": "Land Cruiser",
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 31,
       "name": "Honda CR-V L",
       "brand": "Honda",
       "model": "CR-V",
@@ -652,7 +652,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 32,
       "name": "Honda Civic RS",
       "brand": "Honda",
       "model": "Civic",
@@ -673,7 +673,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 33,
       "name": "Honda Accord",
       "brand": "Honda",
       "model": "Accord",
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 34,
       "name": "Honda City RS",
       "brand": "Honda",
       "model": "City",
@@ -715,7 +715,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 35,
       "name": "Honda HR-V L",
       "brand": "Honda",
       "model": "HR-V",
@@ -736,7 +736,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 36,
       "name": "Mazda CX-5 Premium",
       "brand": "Mazda",
       "model": "CX-5",
@@ -757,7 +757,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 37,
       "name": "Mazda3 Premium",
       "brand": "Mazda",
       "model": "Mazda3",
@@ -778,7 +778,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 38,
       "name": "Mazda CX-8 Premium",
       "brand": "Mazda",
       "model": "CX-8",
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": 39,
       "name": "Mazda6 Premium",
       "brand": "Mazda",
       "model": "Mazda6",
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 40,
       "name": "Mazda CX-30 Premium",
       "brand": "Mazda",
       "model": "CX-30",
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 41,
       "name": "Hyundai Santa Fe Calligraphy",
       "brand": "Hyundai",
       "model": "Santa Fe",
@@ -862,7 +862,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 42,
       "name": "Kia Sorento Signature",
       "brand": "Kia",
       "model": "Sorento",
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 43,
       "name": "Tesla Model 3 Long Range",
       "brand": "Tesla",
       "model": "Model 3",
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 44,
       "name": "Hyundai Tucson",
       "brand": "Hyundai",
       "model": "Tucson",
@@ -925,7 +925,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 45,
       "name": "Hyundai Elantra",
       "brand": "Hyundai",
       "model": "Elantra",
@@ -946,7 +946,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 46,
       "name": "Hyundai Palisade",
       "brand": "Hyundai",
       "model": "Palisade",
@@ -967,7 +967,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 47,
       "name": "Kia Seltos",
       "brand": "Kia",
       "model": "Seltos",
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 48,
       "name": "Kia Carnival",
       "brand": "Kia",
       "model": "Carnival",
@@ -1009,7 +1009,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": 49,
       "name": "Tesla Model Y",
       "brand": "Tesla",
       "model": "Model Y",
@@ -1030,7 +1030,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": 50,
       "name": "Tesla Model S Plaid",
       "brand": "Tesla",
       "model": "Model S",
@@ -1051,7 +1051,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 51,
       "name": "Ford Everest Titanium",
       "brand": "Ford",
       "model": "Everest",
@@ -1072,7 +1072,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 52,
       "name": "Ford Explorer",
       "brand": "Ford",
       "model": "Explorer",
@@ -1093,7 +1093,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 53,
       "name": "Ford Ranger Raptor",
       "brand": "Ford",
       "model": "Ranger",
@@ -1115,7 +1115,6 @@
     }
   ],
   "usedCars": [
-
     {
       "id": 101,
       "name": "Mercedes-Benz C200 2019",
@@ -1221,8 +1220,7 @@
         "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
       ]
     },
-  
-  {
+    {
       "id": 106,
       "name": "Honda CR-V 2019",
       "brand": "Honda",
@@ -1327,103 +1325,1895 @@
         "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
       ]
     },
-
-    {"id": 111, "name": "Mercedes-Benz E200 2018", "brand": "Mercedes-Benz", "model": "E200", "year": 2018, "price": 1450000000, "km": 55000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Bạc", "rating": 4.6, "badge": "Cũ", "description": "Mercedes E200 2018, sedan hạng sang, nội thất da bò.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 112, "name": "BMW X3 2019", "brand": "BMW", "model": "X3", "year": 2019, "price": 1680000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.7, "badge": "Cũ", "description": "BMW X3 2019, SUV sang trọng, động cơ mạnh mẽ.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 113, "name": "Audi Q5 2019", "brand": "Audi", "model": "Q5", "year": 2019, "price": 1750000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.6, "badge": "Cũ", "description": "Audi Q5 2019, SUV cao cấp, công nghệ hiện đại.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 114, "name": "Lexus RX300 2018", "brand": "Lexus", "model": "RX300", "year": 2018, "price": 2150000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Đen", "rating": 4.8, "badge": "Cũ", "description": "Lexus RX300 2018, SUV 7 chỗ sang trọng.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 115, "name": "Toyota Fortuner 2019", "brand": "Toyota", "model": "Fortuner", "year": 2019, "price": 980000000, "km": 58000, "fuel": "Dầu", "transmission": "Tự động", "seats": 7, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Toyota Fortuner 2019, SUV 7 chỗ bền bỉ.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 116, "name": "Honda Civic 2019", "brand": "Honda", "model": "Civic", "year": 2019, "price": 750000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.4, "badge": "Cũ", "description": "Honda Civic 2019, sedan thể thao, tiết kiệm nhiên liệu.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 117, "name": "Mazda3 2020", "brand": "Mazda", "model": "Mazda3", "year": 2020, "price": 680000000, "km": 32000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.5, "badge": "Cũ", "description": "Mazda3 2020, sedan đẹp, công nghệ hiện đại.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 118, "name": "Hyundai Tucson 2019", "brand": "Hyundai", "model": "Tucson", "year": 2019, "price": 780000000, "km": 51000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.3, "badge": "Cũ", "description": "Hyundai Tucson 2019, SUV 5 chỗ tiện nghi.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 119, "name": "Kia Seltos 2020", "brand": "Kia", "model": "Seltos", "year": 2020, "price": 650000000, "km": 38000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.4, "badge": "Cũ", "description": "Kia Seltos 2020, SUV trẻ trung, năng động.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 120, "name": "Ford Ranger 2019", "brand": "Ford", "model": "Ranger", "year": 2019, "price": 720000000, "km": 65000, "fuel": "Dầu", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.4, "badge": "Cũ", "description": "Ford Ranger 2019, bán tải mạnh mẽ, bền bỉ.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
- 
-   {"id": 121, "name": "Mercedes-Benz GLC 200 2019", "brand": "Mercedes-Benz", "model": "GLC 200", "year": 2019, "price": 1580000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.7, "badge": "Cũ", "description": "Mercedes GLC 200 2019, SUV sang trọng.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 122, "name": "BMW 520i 2018", "brand": "BMW", "model": "520i", "year": 2018, "price": 1380000000, "km": 58000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.6, "badge": "Cũ", "description": "BMW 520i 2018, sedan hạng sang.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 123, "name": "Audi A6 2019", "brand": "Audi", "model": "A6", "year": 2019, "price": 1680000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.7, "badge": "Cũ", "description": "Audi A6 2019, sedan cao cấp.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 124, "name": "Lexus NX300 2019", "brand": "Lexus", "model": "NX300", "year": 2019, "price": 1850000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.7, "badge": "Cũ", "description": "Lexus NX300 2019, SUV thể thao.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 125, "name": "Toyota Vios 2020", "brand": "Toyota", "model": "Vios", "year": 2020, "price": 480000000, "km": 35000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.3, "badge": "Cũ", "description": "Toyota Vios 2020, sedan tiết kiệm.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 126, "name": "Honda Accord 2019", "brand": "Honda", "model": "Accord", "year": 2019, "price": 1080000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.5, "badge": "Cũ", "description": "Honda Accord 2019, sedan cao cấp.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 127, "name": "Mazda CX-8 2019", "brand": "Mazda", "model": "CX-8", "year": 2019, "price": 980000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Xanh", "rating": 4.5, "badge": "Cũ", "description": "Mazda CX-8 2019, SUV 7 chỗ sang trọng.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 128, "name": "Hyundai Elantra 2020", "brand": "Hyundai", "model": "Elantra", "year": 2020, "price": 580000000, "km": 38000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Bạc", "rating": 4.3, "badge": "Cũ", "description": "Hyundai Elantra 2020, sedan hiện đại.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 129, "name": "Kia Cerato 2019", "brand": "Kia", "model": "Cerato", "year": 2019, "price": 580000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.3, "badge": "Cũ", "description": "Kia Cerato 2019, sedan đẹp, tiện nghi.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 130, "name": "Ford EcoSport 2019", "brand": "Ford", "model": "EcoSport", "year": 2019, "price": 520000000, "km": 55000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.2, "badge": "Cũ", "description": "Ford EcoSport 2019, SUV nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
-
-    {"id": 131, "name": "Mercedes-Benz A200 2019", "brand": "Mercedes-Benz", "model": "A200", "year": 2019, "price": 1180000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.5, "badge": "Cũ", "description": "Mercedes A200 2019, hatchback sang trọng.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 132, "name": "BMW X1 2019", "brand": "BMW", "model": "X1", "year": 2019, "price": 1280000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "BMW X1 2019, SUV nhỏ gọn sang trọng.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 133, "name": "Audi Q3 2020", "brand": "Audi", "model": "Q3", "year": 2020, "price": 1480000000, "km": 35000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.6, "badge": "Cũ", "description": "Audi Q3 2020, SUV compact cao cấp.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 134, "name": "Lexus IS300 2019", "brand": "Lexus", "model": "IS300", "year": 2019, "price": 1680000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.6, "badge": "Cũ", "description": "Lexus IS300 2019, sedan thể thao.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 135, "name": "Toyota Corolla Cross 2020", "brand": "Toyota", "model": "Corolla Cross", "year": 2020, "price": 780000000, "km": 32000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Toyota Corolla Cross 2020, SUV đô thị.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 136, "name": "Honda City 2020", "brand": "Honda", "model": "City", "year": 2020, "price": 520000000, "km": 38000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Bạc", "rating": 4.3, "badge": "Cũ", "description": "Honda City 2020, sedan tiết kiệm.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 137, "name": "Mazda6 2019", "brand": "Mazda", "model": "Mazda6", "year": 2019, "price": 880000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.5, "badge": "Cũ", "description": "Mazda6 2019, sedan cao cấp.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 138, "name": "Hyundai Accent 2020", "brand": "Hyundai", "model": "Accent", "year": 2020, "price": 480000000, "km": 35000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.2, "badge": "Cũ", "description": "Hyundai Accent 2020, sedan nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 139, "name": "Kia Morning 2020", "brand": "Kia", "model": "Morning", "year": 2020, "price": 320000000, "km": 28000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.1, "badge": "Cũ", "description": "Kia Morning 2020, xe nhỏ tiết kiệm.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 140, "name": "Ford Focus 2019", "brand": "Ford", "model": "Focus", "year": 2019, "price": 620000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.3, "badge": "Cũ", "description": "Ford Focus 2019, hatchback thể thao.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
-    {"id": 141, "name": "Mercedes-Benz CLA 200 2019", "brand": "Mercedes-Benz", "model": "CLA 200", "year": 2019, "price": 1380000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.6, "badge": "Cũ", "description": "Mercedes CLA 200 2019, coupe 4 cửa.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 142, "name": "BMW 218i Gran Tourer 2018", "brand": "BMW", "model": "218i", "year": 2018, "price": 1080000000, "km": 58000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Đen", "rating": 4.4, "badge": "Cũ", "description": "BMW 218i 2018, MPV 7 chỗ sang trọng.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 143, "name": "Audi A3 Sportback 2019", "brand": "Audi", "model": "A3", "year": 2019, "price": 1180000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.5, "badge": "Cũ", "description": "Audi A3 2019, hatchback cao cấp.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 144, "name": "Lexus GX460 2018", "brand": "Lexus", "model": "GX460", "year": 2018, "price": 3850000000, "km": 55000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Đen", "rating": 4.8, "badge": "Cũ", "description": "Lexus GX460 2018, SUV 7 chỗ hạng sang.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 145, "name": "Toyota Innova 2019", "brand": "Toyota", "model": "Innova", "year": 2019, "price": 680000000, "km": 62000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Bạc", "rating": 4.4, "badge": "Cũ", "description": "Toyota Innova 2019, MPV 7 chỗ bền bỉ.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 146, "name": "Honda HR-V 2019", "brand": "Honda", "model": "HR-V", "year": 2019, "price": 720000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.4, "badge": "Cũ", "description": "Honda HR-V 2019, SUV nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 147, "name": "Mazda CX-30 2020", "brand": "Mazda", "model": "CX-30", "year": 2020, "price": 780000000, "km": 32000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.5, "badge": "Cũ", "description": "Mazda CX-30 2020, SUV compact đẹp.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 148, "name": "Hyundai Kona 2020", "brand": "Hyundai", "model": "Kona", "year": 2020, "price": 680000000, "km": 38000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.4, "badge": "Cũ", "description": "Hyundai Kona 2020, SUV cá tính.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 149, "name": "Kia Sportage 2019", "brand": "Kia", "model": "Sportage", "year": 2019, "price": 780000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.4, "badge": "Cũ", "description": "Kia Sportage 2019, SUV 5 chỗ tiện nghi.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 150, "name": "Ford Fiesta 2019", "brand": "Ford", "model": "Fiesta", "year": 2019, "price": 480000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.2, "badge": "Cũ", "description": "Ford Fiesta 2019, hatchback nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
-  
-  {"id": 151, "name": "Mercedes-Benz GLA 200 2020", "brand": "Mercedes-Benz", "model": "GLA 200", "year": 2020, "price": 1480000000, "km": 35000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.6, "badge": "Cũ", "description": "Mercedes GLA 200 2020, SUV compact sang trọng.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 152, "name": "BMW X4 2019", "brand": "BMW", "model": "X4", "year": 2019, "price": 2180000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.7, "badge": "Cũ", "description": "BMW X4 2019, SUV coupe thể thao.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 153, "name": "Audi Q7 2018", "brand": "Audi", "model": "Q7", "year": 2018, "price": 2680000000, "km": 58000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Xám", "rating": 4.7, "badge": "Cũ", "description": "Audi Q7 2018, SUV 7 chỗ hạng sang.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 154, "name": "Lexus LX570 2017", "brand": "Lexus", "model": "LX570", "year": 2017, "price": 5280000000, "km": 68000, "fuel": "Xăng", "transmission": "Tự động", "seats": 8, "color": "Đen", "rating": 4.9, "badge": "Cũ", "description": "Lexus LX570 2017, SUV full-size hạng sang.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 155, "name": "Toyota Hilux 2019", "brand": "Toyota", "model": "Hilux", "year": 2019, "price": 680000000, "km": 72000, "fuel": "Dầu", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Toyota Hilux 2019, bán tải bền bỉ.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 156, "name": "Honda Jazz 2019", "brand": "Honda", "model": "Jazz", "year": 2019, "price": 520000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.3, "badge": "Cũ", "description": "Honda Jazz 2019, hatchback linh hoạt.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 157, "name": "Mazda2 2020", "brand": "Mazda", "model": "Mazda2", "year": 2020, "price": 480000000, "km": 32000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.3, "badge": "Cũ", "description": "Mazda2 2020, sedan nhỏ gọn tiết kiệm.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 158, "name": "Hyundai Grand i10 2020", "brand": "Hyundai", "model": "Grand i10", "year": 2020, "price": 350000000, "km": 28000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.1, "badge": "Cũ", "description": "Hyundai Grand i10 2020, xe nhỏ tiết kiệm.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 159, "name": "Kia Rio 2019", "brand": "Kia", "model": "Rio", "year": 2019, "price": 480000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Bạc", "rating": 4.2, "badge": "Cũ", "description": "Kia Rio 2019, sedan nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 160, "name": "Ford Escape 2019", "brand": "Ford", "model": "Escape", "year": 2019, "price": 820000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.4, "badge": "Cũ", "description": "Ford Escape 2019, SUV 5 chỗ tiện nghi.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
- 
-   {"id": 161, "name": "Mercedes-Benz B180 2019", "brand": "Mercedes-Benz", "model": "B180", "year": 2019, "price": 1080000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.4, "badge": "Cũ", "description": "Mercedes B180 2019, MPV nhỏ gọn sang trọng.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 162, "name": "BMW 420i Gran Coupe 2019", "brand": "BMW", "model": "420i", "year": 2019, "price": 1580000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.6, "badge": "Cũ", "description": "BMW 420i 2019, coupe 4 cửa thể thao.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 163, "name": "Audi A5 Sportback 2019", "brand": "Audi", "model": "A5", "year": 2019, "price": 1780000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.7, "badge": "Cũ", "description": "Audi A5 2019, sportback cao cấp.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 164, "name": "Lexus CT200h 2018", "brand": "Lexus", "model": "CT200h", "year": 2018, "price": 1280000000, "km": 55000, "fuel": "Hybrid", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Lexus CT200h 2018, hatchback hybrid tiết kiệm.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 165, "name": "Toyota Yaris 2020", "brand": "Toyota", "model": "Yaris", "year": 2020, "price": 580000000, "km": 32000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.3, "badge": "Cũ", "description": "Toyota Yaris 2020, hatchback nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 166, "name": "Honda Brio 2020", "brand": "Honda", "model": "Brio", "year": 2020, "price": 420000000, "km": 28000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.2, "badge": "Cũ", "description": "Honda Brio 2020, hatchback tiết kiệm.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 167, "name": "Mazda BT-50 2019", "brand": "Mazda", "model": "BT-50", "year": 2019, "price": 680000000, "km": 68000, "fuel": "Dầu", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.4, "badge": "Cũ", "description": "Mazda BT-50 2019, bán tải mạnh mẽ.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 168, "name": "Hyundai Stargazer 2023", "brand": "Hyundai", "model": "Stargazer", "year": 2023, "price": 520000000, "km": 15000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Bạc", "rating": 4.4, "badge": "Cũ", "description": "Hyundai Stargazer 2023, MPV 7 chỗ mới.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 169, "name": "Kia Carens 2023", "brand": "Kia", "model": "Carens", "year": 2023, "price": 580000000, "km": 18000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Trắng", "rating": 4.4, "badge": "Cũ", "description": "Kia Carens 2023, MPV 7 chỗ hiện đại.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 170, "name": "Ford Territory 2021", "brand": "Ford", "model": "Territory", "year": 2021, "price": 780000000, "km": 32000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.5, "badge": "Cũ", "description": "Ford Territory 2021, SUV 5 chỗ công nghệ.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
-
-    {"id": 171, "name": "Mercedes-Benz V250 2019", "brand": "Mercedes-Benz", "model": "V250", "year": 2019, "price": 2380000000, "km": 52000, "fuel": "Dầu", "transmission": "Tự động", "seats": 7, "color": "Đen", "rating": 4.8, "badge": "Cũ", "description": "Mercedes V250 2019, MPV hạng sang 7 chỗ.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 172, "name": "BMW X6 2018", "brand": "BMW", "model": "X6", "year": 2018, "price": 2680000000, "km": 58000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.7, "badge": "Cũ", "description": "BMW X6 2018, SUV coupe thể thao mạnh mẽ.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 173, "name": "Audi Q8 2019", "brand": "Audi", "model": "Q8", "year": 2019, "price": 3280000000, "km": 42000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.8, "badge": "Cũ", "description": "Audi Q8 2019, SUV coupe hạng sang.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 174, "name": "Lexus UX250h 2020", "brand": "Lexus", "model": "UX250h", "year": 2020, "price": 1680000000, "km": 35000, "fuel": "Hybrid", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.6, "badge": "Cũ", "description": "Lexus UX250h 2020, SUV hybrid tiết kiệm.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 175, "name": "Toyota Alphard 2018", "brand": "Toyota", "model": "Alphard", "year": 2018, "price": 3280000000, "km": 55000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Đen", "rating": 4.8, "badge": "Cũ", "description": "Toyota Alphard 2018, MPV hạng sang.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 176, "name": "Honda Odyssey 2019", "brand": "Honda", "model": "Odyssey", "year": 2019, "price": 1680000000, "km": 48000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Trắng", "rating": 4.6, "badge": "Cũ", "description": "Honda Odyssey 2019, MPV 7 chỗ cao cấp.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 177, "name": "Mazda CX-9 2019", "brand": "Mazda", "model": "CX-9", "year": 2019, "price": 1480000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 7, "color": "Đỏ", "rating": 4.6, "badge": "Cũ", "description": "Mazda CX-9 2019, SUV 7 chỗ cao cấp.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 178, "name": "Hyundai Palisade 2020", "brand": "Hyundai", "model": "Palisade", "year": 2020, "price": 1280000000, "km": 38000, "fuel": "Xăng", "transmission": "Tự động", "seats": 8, "color": "Trắng", "rating": 4.6, "badge": "Cũ", "description": "Hyundai Palisade 2020, SUV 8 chỗ sang trọng.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 179, "name": "Kia Carnival 2020", "brand": "Kia", "model": "Carnival", "year": 2020, "price": 1080000000, "km": 45000, "fuel": "Dầu", "transmission": "Tự động", "seats": 7, "color": "Đen", "rating": 4.5, "badge": "Cũ", "description": "Kia Carnival 2020, MPV 7 chỗ rộng rãi.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 180, "name": "Ford Mustang 2018", "brand": "Ford", "model": "Mustang", "year": 2018, "price": 2380000000, "km": 35000, "fuel": "Xăng", "transmission": "Tự động", "seats": 4, "color": "Đỏ", "rating": 4.8, "badge": "Cũ", "description": "Ford Mustang 2018, coupe thể thao huyền thoại.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
     {
-"id": 181, "name": "Mercedes-Benz S450 2018", "brand": "Mercedes-Benz", "model": "S450", "year": 2018, "price": 3280000000, "km": 58000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.9, "badge": "Cũ", "description": "Mercedes S450 2018, sedan hạng sang đỉnh cao.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 182, "name": "BMW 730Li 2019", "brand": "BMW", "model": "730Li", "year": 2019, "price": 3680000000, "km": 45000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.9, "badge": "Cũ", "description": "BMW 730Li 2019, sedan hạng sang dài.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 183, "name": "Audi A8L 2018", "brand": "Audi", "model": "A8L", "year": 2018, "price": 3480000000, "km": 52000, "fuel": "Xăng", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.8, "badge": "Cũ", "description": "Audi A8L 2018, sedan hạng sang công nghệ cao.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 184, "name": "Lexus LS500h 2019", "brand": "Lexus", "model": "LS500h", "year": 2019, "price": 4280000000, "km": 42000, "fuel": "Hybrid", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.9, "badge": "Cũ", "description": "Lexus LS500h 2019, sedan hạng sang hybrid.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 185, "name": "Toyota Prius 2020", "brand": "Toyota", "model": "Prius", "year": 2020, "price": 980000000, "km": 32000, "fuel": "Hybrid", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Toyota Prius 2020, sedan hybrid tiết kiệm.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 186, "name": "Honda Insight 2020", "brand": "Honda", "model": "Insight", "year": 2020, "price": 880000000, "km": 35000, "fuel": "Hybrid", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.4, "badge": "Cũ", "description": "Honda Insight 2020, sedan hybrid hiện đại.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 187, "name": "Mazda MX-5 2019", "brand": "Mazda", "model": "MX-5", "year": 2019, "price": 1480000000, "km": 28000, "fuel": "Xăng", "transmission": "Tự động", "seats": 2, "color": "Đỏ", "rating": 4.7, "badge": "Cũ", "description": "Mazda MX-5 2019, roadster thể thao.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 188, "name": "Hyundai Ioniq 5 2022", "brand": "Hyundai", "model": "Ioniq 5", "year": 2022, "price": 1280000000, "km": 22000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.7, "badge": "Cũ", "description": "Hyundai Ioniq 5 2022, SUV điện hiện đại.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 189, "name": "Kia EV6 2022", "brand": "Kia", "model": "EV6", "year": 2022, "price": 1380000000, "km": 18000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.7, "badge": "Cũ", "description": "Kia EV6 2022, SUV điện thể thao.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 190, "name": "Ford Mustang Mach-E 2022", "brand": "Ford", "model": "Mustang Mach-E", "year": 2022, "price": 1680000000, "km": 15000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.6, "badge": "Cũ", "description": "Ford Mustang Mach-E 2022, SUV điện thể thao.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]},
-    
-{"id": 191, "name": "Mercedes-Benz EQC 2021", "brand": "Mercedes-Benz", "model": "EQC", "year": 2021, "price": 2180000000, "km": 25000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Đen", "rating": 4.7, "badge": "Cũ", "description": "Mercedes EQC 2021, SUV điện sang trọng.", "images": ["https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 192, "name": "BMW iX3 2021", "brand": "BMW", "model": "iX3", "year": 2021, "price": 1980000000, "km": 22000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.6, "badge": "Cũ", "description": "BMW iX3 2021, SUV điện cao cấp.", "images": ["https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"]},
-    {"id": 193, "name": "Audi e-tron 2021", "brand": "Audi", "model": "e-tron", "year": 2021, "price": 2380000000, "km": 28000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.7, "badge": "Cũ", "description": "Audi e-tron 2021, SUV điện hạng sang.", "images": ["https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"]},
-    {"id": 194, "name": "Lexus UX300e 2021", "brand": "Lexus", "model": "UX300e", "year": 2021, "price": 1680000000, "km": 25000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.6, "badge": "Cũ", "description": "Lexus UX300e 2021, SUV điện tiết kiệm.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 195, "name": "Toyota bZ4X 2023", "brand": "Toyota", "model": "bZ4X", "year": 2023, "price": 1180000000, "km": 12000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Toyota bZ4X 2023, SUV điện mới.", "images": ["https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"]},
-    {"id": 196, "name": "Honda e 2021", "brand": "Honda", "model": "e", "year": 2021, "price": 880000000, "km": 18000, "fuel": "Điện", "transmission": "Tự động", "seats": 4, "color": "Vàng", "rating": 4.4, "badge": "Cũ", "description": "Honda e 2021, hatchback điện nhỏ gọn.", "images": ["https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"]},
-    {"id": 197, "name": "Mazda MX-30 2022", "brand": "Mazda", "model": "MX-30", "year": 2022, "price": 780000000, "km": 15000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Đỏ", "rating": 4.4, "badge": "Cũ", "description": "Mazda MX-30 2022, SUV điện compact.", "images": ["https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"]},
-    {"id": 198, "name": "Hyundai Kona Electric 2021", "brand": "Hyundai", "model": "Kona Electric", "year": 2021, "price": 780000000, "km": 28000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Trắng", "rating": 4.5, "badge": "Cũ", "description": "Hyundai Kona Electric 2021, SUV điện tiết kiệm.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 199, "name": "Kia Niro EV 2021", "brand": "Kia", "model": "Niro EV", "year": 2021, "price": 880000000, "km": 32000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Xanh", "rating": 4.5, "badge": "Cũ", "description": "Kia Niro EV 2021, SUV điện thực dụng.", "images": ["https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"]},
-    {"id": 200, "name": "Ford F-150 Lightning 2023", "brand": "Ford", "model": "F-150 Lightning", "year": 2023, "price": 1880000000, "km": 8000, "fuel": "Điện", "transmission": "Tự động", "seats": 5, "color": "Xám", "rating": 4.7, "badge": "Cũ", "description": "Ford F-150 Lightning 2023, bán tải điện mạnh mẽ.", "images": ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop","https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"]}
+      "id": 111,
+      "name": "Mercedes-Benz E200 2018",
+      "brand": "Mercedes-Benz",
+      "model": "E200",
+      "year": 2018,
+      "price": 1450000000,
+      "km": 55000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Bạc",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Mercedes E200 2018, sedan hạng sang, nội thất da bò.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "BMW X3 2019",
+      "brand": "BMW",
+      "model": "X3",
+      "year": 2019,
+      "price": 1680000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "BMW X3 2019, SUV sang trọng, động cơ mạnh mẽ.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Audi Q5 2019",
+      "brand": "Audi",
+      "model": "Q5",
+      "year": 2019,
+      "price": 1750000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Audi Q5 2019, SUV cao cấp, công nghệ hiện đại.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Lexus RX300 2018",
+      "brand": "Lexus",
+      "model": "RX300",
+      "year": 2018,
+      "price": 2150000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đen",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Lexus RX300 2018, SUV 7 chỗ sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Toyota Fortuner 2019",
+      "brand": "Toyota",
+      "model": "Fortuner",
+      "year": 2019,
+      "price": 980000000,
+      "km": 58000,
+      "fuel": "Dầu",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Toyota Fortuner 2019, SUV 7 chỗ bền bỉ.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Honda Civic 2019",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "price": 750000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Honda Civic 2019, sedan thể thao, tiết kiệm nhiên liệu.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Mazda3 2020",
+      "brand": "Mazda",
+      "model": "Mazda3",
+      "year": 2020,
+      "price": 680000000,
+      "km": 32000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Mazda3 2020, sedan đẹp, công nghệ hiện đại.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Hyundai Tucson 2019",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "year": 2019,
+      "price": 780000000,
+      "km": 51000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Hyundai Tucson 2019, SUV 5 chỗ tiện nghi.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Kia Seltos 2020",
+      "brand": "Kia",
+      "model": "Seltos",
+      "year": 2020,
+      "price": 650000000,
+      "km": 38000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Kia Seltos 2020, SUV trẻ trung, năng động.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Ford Ranger 2019",
+      "brand": "Ford",
+      "model": "Ranger",
+      "year": 2019,
+      "price": 720000000,
+      "km": 65000,
+      "fuel": "Dầu",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Ford Ranger 2019, bán tải mạnh mẽ, bền bỉ.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Mercedes-Benz GLC 200 2019",
+      "brand": "Mercedes-Benz",
+      "model": "GLC 200",
+      "year": 2019,
+      "price": 1580000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Mercedes GLC 200 2019, SUV sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "BMW 520i 2018",
+      "brand": "BMW",
+      "model": "520i",
+      "year": 2018,
+      "price": 1380000000,
+      "km": 58000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "BMW 520i 2018, sedan hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Audi A6 2019",
+      "brand": "Audi",
+      "model": "A6",
+      "year": 2019,
+      "price": 1680000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Audi A6 2019, sedan cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Lexus NX300 2019",
+      "brand": "Lexus",
+      "model": "NX300",
+      "year": 2019,
+      "price": 1850000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Lexus NX300 2019, SUV thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Toyota Vios 2020",
+      "brand": "Toyota",
+      "model": "Vios",
+      "year": 2020,
+      "price": 480000000,
+      "km": 35000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Toyota Vios 2020, sedan tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Honda Accord 2019",
+      "brand": "Honda",
+      "model": "Accord",
+      "year": 2019,
+      "price": 1080000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Honda Accord 2019, sedan cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Mazda CX-8 2019",
+      "brand": "Mazda",
+      "model": "CX-8",
+      "year": 2019,
+      "price": 980000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Xanh",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Mazda CX-8 2019, SUV 7 chỗ sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Hyundai Elantra 2020",
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2020,
+      "price": 580000000,
+      "km": 38000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Bạc",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Hyundai Elantra 2020, sedan hiện đại.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Kia Cerato 2019",
+      "brand": "Kia",
+      "model": "Cerato",
+      "year": 2019,
+      "price": 580000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Kia Cerato 2019, sedan đẹp, tiện nghi.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Ford EcoSport 2019",
+      "brand": "Ford",
+      "model": "EcoSport",
+      "year": 2019,
+      "price": 520000000,
+      "km": 55000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.2,
+      "badge": "Cũ",
+      "description": "Ford EcoSport 2019, SUV nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Mercedes-Benz A200 2019",
+      "brand": "Mercedes-Benz",
+      "model": "A200",
+      "year": 2019,
+      "price": 1180000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Mercedes A200 2019, hatchback sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "BMW X1 2019",
+      "brand": "BMW",
+      "model": "X1",
+      "year": 2019,
+      "price": 1280000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "BMW X1 2019, SUV nhỏ gọn sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Audi Q3 2020",
+      "brand": "Audi",
+      "model": "Q3",
+      "year": 2020,
+      "price": 1480000000,
+      "km": 35000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Audi Q3 2020, SUV compact cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Lexus IS300 2019",
+      "brand": "Lexus",
+      "model": "IS300",
+      "year": 2019,
+      "price": 1680000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Lexus IS300 2019, sedan thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Toyota Corolla Cross 2020",
+      "brand": "Toyota",
+      "model": "Corolla Cross",
+      "year": 2020,
+      "price": 780000000,
+      "km": 32000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Toyota Corolla Cross 2020, SUV đô thị.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Honda City 2020",
+      "brand": "Honda",
+      "model": "City",
+      "year": 2020,
+      "price": 520000000,
+      "km": 38000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Bạc",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Honda City 2020, sedan tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Mazda6 2019",
+      "brand": "Mazda",
+      "model": "Mazda6",
+      "year": 2019,
+      "price": 880000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Mazda6 2019, sedan cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Hyundai Accent 2020",
+      "brand": "Hyundai",
+      "model": "Accent",
+      "year": 2020,
+      "price": 480000000,
+      "km": 35000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.2,
+      "badge": "Cũ",
+      "description": "Hyundai Accent 2020, sedan nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Kia Morning 2020",
+      "brand": "Kia",
+      "model": "Morning",
+      "year": 2020,
+      "price": 320000000,
+      "km": 28000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.1,
+      "badge": "Cũ",
+      "description": "Kia Morning 2020, xe nhỏ tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Ford Focus 2019",
+      "brand": "Ford",
+      "model": "Focus",
+      "year": 2019,
+      "price": 620000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Ford Focus 2019, hatchback thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Mercedes-Benz CLA 200 2019",
+      "brand": "Mercedes-Benz",
+      "model": "CLA 200",
+      "year": 2019,
+      "price": 1380000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Mercedes CLA 200 2019, coupe 4 cửa.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "BMW 218i Gran Tourer 2018",
+      "brand": "BMW",
+      "model": "218i",
+      "year": 2018,
+      "price": 1080000000,
+      "km": 58000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đen",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "BMW 218i 2018, MPV 7 chỗ sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Audi A3 Sportback 2019",
+      "brand": "Audi",
+      "model": "A3",
+      "year": 2019,
+      "price": 1180000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Audi A3 2019, hatchback cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Lexus GX460 2018",
+      "brand": "Lexus",
+      "model": "GX460",
+      "year": 2018,
+      "price": 3850000000,
+      "km": 55000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đen",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Lexus GX460 2018, SUV 7 chỗ hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Toyota Innova 2019",
+      "brand": "Toyota",
+      "model": "Innova",
+      "year": 2019,
+      "price": 680000000,
+      "km": 62000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Bạc",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Toyota Innova 2019, MPV 7 chỗ bền bỉ.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Honda HR-V 2019",
+      "brand": "Honda",
+      "model": "HR-V",
+      "year": 2019,
+      "price": 720000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Honda HR-V 2019, SUV nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Mazda CX-30 2020",
+      "brand": "Mazda",
+      "model": "CX-30",
+      "year": 2020,
+      "price": 780000000,
+      "km": 32000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Mazda CX-30 2020, SUV compact đẹp.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Hyundai Kona 2020",
+      "brand": "Hyundai",
+      "model": "Kona",
+      "year": 2020,
+      "price": 680000000,
+      "km": 38000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Hyundai Kona 2020, SUV cá tính.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Kia Sportage 2019",
+      "brand": "Kia",
+      "model": "Sportage",
+      "year": 2019,
+      "price": 780000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Kia Sportage 2019, SUV 5 chỗ tiện nghi.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Ford Fiesta 2019",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "year": 2019,
+      "price": 480000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.2,
+      "badge": "Cũ",
+      "description": "Ford Fiesta 2019, hatchback nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Mercedes-Benz GLA 200 2020",
+      "brand": "Mercedes-Benz",
+      "model": "GLA 200",
+      "year": 2020,
+      "price": 1480000000,
+      "km": 35000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Mercedes GLA 200 2020, SUV compact sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "BMW X4 2019",
+      "brand": "BMW",
+      "model": "X4",
+      "year": 2019,
+      "price": 2180000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "BMW X4 2019, SUV coupe thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Audi Q7 2018",
+      "brand": "Audi",
+      "model": "Q7",
+      "year": 2018,
+      "price": 2680000000,
+      "km": 58000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Xám",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Audi Q7 2018, SUV 7 chỗ hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Lexus LX570 2017",
+      "brand": "Lexus",
+      "model": "LX570",
+      "year": 2017,
+      "price": 5280000000,
+      "km": 68000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 8,
+      "color": "Đen",
+      "rating": 4.9,
+      "badge": "Cũ",
+      "description": "Lexus LX570 2017, SUV full-size hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Toyota Hilux 2019",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": 2019,
+      "price": 680000000,
+      "km": 72000,
+      "fuel": "Dầu",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Toyota Hilux 2019, bán tải bền bỉ.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Honda Jazz 2019",
+      "brand": "Honda",
+      "model": "Jazz",
+      "year": 2019,
+      "price": 520000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Honda Jazz 2019, hatchback linh hoạt.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Mazda2 2020",
+      "brand": "Mazda",
+      "model": "Mazda2",
+      "year": 2020,
+      "price": 480000000,
+      "km": 32000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Mazda2 2020, sedan nhỏ gọn tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Hyundai Grand i10 2020",
+      "brand": "Hyundai",
+      "model": "Grand i10",
+      "year": 2020,
+      "price": 350000000,
+      "km": 28000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.1,
+      "badge": "Cũ",
+      "description": "Hyundai Grand i10 2020, xe nhỏ tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Kia Rio 2019",
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2019,
+      "price": 480000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Bạc",
+      "rating": 4.2,
+      "badge": "Cũ",
+      "description": "Kia Rio 2019, sedan nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Ford Escape 2019",
+      "brand": "Ford",
+      "model": "Escape",
+      "year": 2019,
+      "price": 820000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Ford Escape 2019, SUV 5 chỗ tiện nghi.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Mercedes-Benz B180 2019",
+      "brand": "Mercedes-Benz",
+      "model": "B180",
+      "year": 2019,
+      "price": 1080000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Mercedes B180 2019, MPV nhỏ gọn sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "BMW 420i Gran Coupe 2019",
+      "brand": "BMW",
+      "model": "420i",
+      "year": 2019,
+      "price": 1580000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "BMW 420i 2019, coupe 4 cửa thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Audi A5 Sportback 2019",
+      "brand": "Audi",
+      "model": "A5",
+      "year": 2019,
+      "price": 1780000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Audi A5 2019, sportback cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Lexus CT200h 2018",
+      "brand": "Lexus",
+      "model": "CT200h",
+      "year": 2018,
+      "price": 1280000000,
+      "km": 55000,
+      "fuel": "Hybrid",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Lexus CT200h 2018, hatchback hybrid tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Toyota Yaris 2020",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "year": 2020,
+      "price": 580000000,
+      "km": 32000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.3,
+      "badge": "Cũ",
+      "description": "Toyota Yaris 2020, hatchback nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Honda Brio 2020",
+      "brand": "Honda",
+      "model": "Brio",
+      "year": 2020,
+      "price": 420000000,
+      "km": 28000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.2,
+      "badge": "Cũ",
+      "description": "Honda Brio 2020, hatchback tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Mazda BT-50 2019",
+      "brand": "Mazda",
+      "model": "BT-50",
+      "year": 2019,
+      "price": 680000000,
+      "km": 68000,
+      "fuel": "Dầu",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Mazda BT-50 2019, bán tải mạnh mẽ.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Hyundai Stargazer 2023",
+      "brand": "Hyundai",
+      "model": "Stargazer",
+      "year": 2023,
+      "price": 520000000,
+      "km": 15000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Bạc",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Hyundai Stargazer 2023, MPV 7 chỗ mới.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Kia Carens 2023",
+      "brand": "Kia",
+      "model": "Carens",
+      "year": 2023,
+      "price": 580000000,
+      "km": 18000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Trắng",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Kia Carens 2023, MPV 7 chỗ hiện đại.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Ford Territory 2021",
+      "brand": "Ford",
+      "model": "Territory",
+      "year": 2021,
+      "price": 780000000,
+      "km": 32000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Ford Territory 2021, SUV 5 chỗ công nghệ.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Mercedes-Benz V250 2019",
+      "brand": "Mercedes-Benz",
+      "model": "V250",
+      "year": 2019,
+      "price": 2380000000,
+      "km": 52000,
+      "fuel": "Dầu",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đen",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Mercedes V250 2019, MPV hạng sang 7 chỗ.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "BMW X6 2018",
+      "brand": "BMW",
+      "model": "X6",
+      "year": 2018,
+      "price": 2680000000,
+      "km": 58000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "BMW X6 2018, SUV coupe thể thao mạnh mẽ.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Audi Q8 2019",
+      "brand": "Audi",
+      "model": "Q8",
+      "year": 2019,
+      "price": 3280000000,
+      "km": 42000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Audi Q8 2019, SUV coupe hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Lexus UX250h 2020",
+      "brand": "Lexus",
+      "model": "UX250h",
+      "year": 2020,
+      "price": 1680000000,
+      "km": 35000,
+      "fuel": "Hybrid",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Lexus UX250h 2020, SUV hybrid tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Toyota Alphard 2018",
+      "brand": "Toyota",
+      "model": "Alphard",
+      "year": 2018,
+      "price": 3280000000,
+      "km": 55000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đen",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Toyota Alphard 2018, MPV hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Honda Odyssey 2019",
+      "brand": "Honda",
+      "model": "Odyssey",
+      "year": 2019,
+      "price": 1680000000,
+      "km": 48000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Trắng",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Honda Odyssey 2019, MPV 7 chỗ cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Mazda CX-9 2019",
+      "brand": "Mazda",
+      "model": "CX-9",
+      "year": 2019,
+      "price": 1480000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đỏ",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Mazda CX-9 2019, SUV 7 chỗ cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Hyundai Palisade 2020",
+      "brand": "Hyundai",
+      "model": "Palisade",
+      "year": 2020,
+      "price": 1280000000,
+      "km": 38000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 8,
+      "color": "Trắng",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Hyundai Palisade 2020, SUV 8 chỗ sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Kia Carnival 2020",
+      "brand": "Kia",
+      "model": "Carnival",
+      "year": 2020,
+      "price": 1080000000,
+      "km": 45000,
+      "fuel": "Dầu",
+      "transmission": "Tự động",
+      "seats": 7,
+      "color": "Đen",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Kia Carnival 2020, MPV 7 chỗ rộng rãi.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Ford Mustang 2018",
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2018,
+      "price": 2380000000,
+      "km": 35000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 4,
+      "color": "Đỏ",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Ford Mustang 2018, coupe thể thao huyền thoại.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Mercedes-Benz S450 2018",
+      "brand": "Mercedes-Benz",
+      "model": "S450",
+      "year": 2018,
+      "price": 3280000000,
+      "km": 58000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.9,
+      "badge": "Cũ",
+      "description": "Mercedes S450 2018, sedan hạng sang đỉnh cao.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "BMW 730Li 2019",
+      "brand": "BMW",
+      "model": "730Li",
+      "year": 2019,
+      "price": 3680000000,
+      "km": 45000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.9,
+      "badge": "Cũ",
+      "description": "BMW 730Li 2019, sedan hạng sang dài.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Audi A8L 2018",
+      "brand": "Audi",
+      "model": "A8L",
+      "year": 2018,
+      "price": 3480000000,
+      "km": 52000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.8,
+      "badge": "Cũ",
+      "description": "Audi A8L 2018, sedan hạng sang công nghệ cao.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Lexus LS500h 2019",
+      "brand": "Lexus",
+      "model": "LS500h",
+      "year": 2019,
+      "price": 4280000000,
+      "km": 42000,
+      "fuel": "Hybrid",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.9,
+      "badge": "Cũ",
+      "description": "Lexus LS500h 2019, sedan hạng sang hybrid.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Toyota Prius 2020",
+      "brand": "Toyota",
+      "model": "Prius",
+      "year": 2020,
+      "price": 980000000,
+      "km": 32000,
+      "fuel": "Hybrid",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Toyota Prius 2020, sedan hybrid tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Honda Insight 2020",
+      "brand": "Honda",
+      "model": "Insight",
+      "year": 2020,
+      "price": 880000000,
+      "km": 35000,
+      "fuel": "Hybrid",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Honda Insight 2020, sedan hybrid hiện đại.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Mazda MX-5 2019",
+      "brand": "Mazda",
+      "model": "MX-5",
+      "year": 2019,
+      "price": 1480000000,
+      "km": 28000,
+      "fuel": "Xăng",
+      "transmission": "Tự động",
+      "seats": 2,
+      "color": "Đỏ",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Mazda MX-5 2019, roadster thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Hyundai Ioniq 5 2022",
+      "brand": "Hyundai",
+      "model": "Ioniq 5",
+      "year": 2022,
+      "price": 1280000000,
+      "km": 22000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Hyundai Ioniq 5 2022, SUV điện hiện đại.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Kia EV6 2022",
+      "brand": "Kia",
+      "model": "EV6",
+      "year": 2022,
+      "price": 1380000000,
+      "km": 18000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Kia EV6 2022, SUV điện thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Ford Mustang Mach-E 2022",
+      "brand": "Ford",
+      "model": "Mustang Mach-E",
+      "year": 2022,
+      "price": 1680000000,
+      "km": 15000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Ford Mustang Mach-E 2022, SUV điện thể thao.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Mercedes-Benz EQC 2021",
+      "brand": "Mercedes-Benz",
+      "model": "EQC",
+      "year": 2021,
+      "price": 2180000000,
+      "km": 25000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đen",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Mercedes EQC 2021, SUV điện sang trọng.",
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "BMW iX3 2021",
+      "brand": "BMW",
+      "model": "iX3",
+      "year": 2021,
+      "price": 1980000000,
+      "km": 22000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "BMW iX3 2021, SUV điện cao cấp.",
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1617531653520-bd788419a0f2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Audi e-tron 2021",
+      "brand": "Audi",
+      "model": "e-tron",
+      "year": 2021,
+      "price": 2380000000,
+      "km": 28000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Audi e-tron 2021, SUV điện hạng sang.",
+      "images": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Lexus UX300e 2021",
+      "brand": "Lexus",
+      "model": "UX300e",
+      "year": 2021,
+      "price": 1680000000,
+      "km": 25000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.6,
+      "badge": "Cũ",
+      "description": "Lexus UX300e 2021, SUV điện tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Toyota bZ4X 2023",
+      "brand": "Toyota",
+      "model": "bZ4X",
+      "year": 2023,
+      "price": 1180000000,
+      "km": 12000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Toyota bZ4X 2023, SUV điện mới.",
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Honda e 2021",
+      "brand": "Honda",
+      "model": "e",
+      "year": 2021,
+      "price": 880000000,
+      "km": 18000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 4,
+      "color": "Vàng",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Honda e 2021, hatchback điện nhỏ gọn.",
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Mazda MX-30 2022",
+      "brand": "Mazda",
+      "model": "MX-30",
+      "year": 2022,
+      "price": 780000000,
+      "km": 15000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Đỏ",
+      "rating": 4.4,
+      "badge": "Cũ",
+      "description": "Mazda MX-30 2022, SUV điện compact.",
+      "images": [
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Hyundai Kona Electric 2021",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "year": 2021,
+      "price": 780000000,
+      "km": 28000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Trắng",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Hyundai Kona Electric 2021, SUV điện tiết kiệm.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Kia Niro EV 2021",
+      "brand": "Kia",
+      "model": "Niro EV",
+      "year": 2021,
+      "price": 880000000,
+      "km": 32000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xanh",
+      "rating": 4.5,
+      "badge": "Cũ",
+      "description": "Kia Niro EV 2021, SUV điện thực dụng.",
+      "images": [
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Ford F-150 Lightning 2023",
+      "brand": "Ford",
+      "model": "F-150 Lightning",
+      "year": 2023,
+      "price": 1880000000,
+      "km": 8000,
+      "fuel": "Điện",
+      "transmission": "Tự động",
+      "seats": 5,
+      "color": "Xám",
+      "rating": 4.7,
+      "badge": "Cũ",
+      "description": "Ford F-150 Lightning 2023, bán tải điện mạnh mẽ.",
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&h=600&fit=crop"
+      ]
+    }
   ]
 }

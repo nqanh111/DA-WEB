@@ -1,6 +1,4 @@
-# Hướng Dẫn Nâng Cao - AutoLux
 
-Tài liệu này cung cấp thông tin chi tiết về kiến trúc code và các tính năng nâng cao.
 
 ## 🏗️ Kiến Trúc Code
 
@@ -417,4 +415,4 @@ console.timeEnd('renderCars');
 
 ---
 
-**Happy Coding! 💻**
+

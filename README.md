@@ -1,6 +1,3 @@
-# AutoLux - Website Bán Ô Tô Cao Cấp
-
-Website bán ô tô chuyên nghiệp được xây dựng bằng HTML, CSS và JavaScript thuần (Vanilla ES6+).
 
 ## 🚀 Tính năng chính
 
@@ -70,36 +67,6 @@ DA-WEB/
 ├── ADVANCED.md         # Tài liệu kỹ thuật nâng cao
 ├── package.json        # Package configuration
 └── .gitignore          # Git ignore file
-```
-
-## 🎯 Cách chạy
-
-### Phương pháp 1: Mở trực tiếp
-1. Mở file `index.html` bằng trình duyệt web
-2. Lưu ý: Một số trình duyệt có thể chặn fetch local files. Nếu gặp lỗi CORS, sử dụng phương pháp 2.
-
-### Phương pháp 2: Sử dụng Live Server (Khuyến nghị)
-1. Cài đặt extension "Live Server" trong VS Code
-2. Click chuột phải vào `index.html` → "Open with Live Server"
-3. Website sẽ tự động mở tại `http://localhost:5500`
-
-### Phương pháp 3: Sử dụng Python HTTP Server
-```bash
-# Python 3
-python -m http.server 8000
-
-# Sau đó mở trình duyệt tại: http://localhost:8000
-```
-
-### Phương pháp 4: Sử dụng Node.js HTTP Server
-```bash
-# Cài đặt http-server global
-npm install -g http-server
-
-# Chạy server
-http-server
-
-# Mở trình duyệt tại: http://localhost:8080
 ```
 
 ## 🎨 Tùy chỉnh
@@ -180,27 +147,7 @@ Mở file `mock-data.json` và chỉnh sửa mảng `cars`:
 - CORS-friendly data loading
 - No sensitive data in client-side
 
-## 🎓 Học tập & Mở rộng
 
-### Các điểm có thể mở rộng:
-1. **Backend Integration**: Kết nối với API thật (Node.js, PHP, Python)
-2. **Database**: Lưu trữ dữ liệu trong MySQL, MongoDB
-3. **Payment Gateway**: Tích hợp VNPay, MoMo, Stripe
-4. **Admin Dashboard**: Quản lý xe, đơn hàng, khách hàng
-5. **Email Service**: Gửi email xác nhận, thông báo
-6. **SMS Service**: Gửi OTP, thông báo qua SMS
-7. **Analytics**: Google Analytics, Facebook Pixel
-8. **SEO**: Meta tags động, sitemap, robots.txt
-9. **PWA**: Service Worker, offline support
-10. **Testing**: Unit tests, E2E tests
-
-## 📝 Ghi chú
-
-- Đây là project demo, không có backend thật
-- Dữ liệu lưu trong localStorage sẽ mất khi clear browser data
-- Hình ảnh sử dụng từ Unsplash (placeholder)
-- Thanh toán và đặt hàng chỉ là mock/demo
-- Google Maps cần API key để hoạt động
 
 ## 🐛 Troubleshooting
 
@@ -219,17 +166,5 @@ Mở file `mock-data.json` và chỉnh sửa mảng `cars`:
 - Xóa cache và thử lại
 - Kiểm tra Private/Incognito mode có thể chặn localStorage
 
-## 📄 License
 
-MIT License - Free to use for personal and commercial projects.
 
-## 👨‍💻 Tác giả
-
-AutoLux - Car Showroom Website
-Phát triển bởi AI Assistant
-
----
-
-**Chúc bạn thành công với project! 🚀**
-
-Nếu có câu hỏi hoặc cần hỗ trợ, vui lòng tạo issue hoặc liên hệ.

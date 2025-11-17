@@ -203,7 +203,3 @@
 - [ ] Offline mode
 
 ---
-
-**Version:** 2.0.0  
-**Release Date:** 2024-11-17  
-**Author:** AutoLux Team
