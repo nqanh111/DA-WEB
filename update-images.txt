@@ -1,0 +1,28 @@
+# Danh sách hình ảnh đa dạng cho các hãng xe
+
+## Mercedes-Benz (đã cập nhật)
+- C300: https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8
+- E300: https://images.unsplash.com/photo-1563720360172-67b8f3dce741
+- GLC: https://images.unsplash.com/photo-1519641471654-76ce0107ad1b
+- S450: https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2
+- GLE: https://images.unsplash.com/photo-1609521263047-f8f205293f24
+
+## BMW (đã cập nhật)
+- X5: https://images.unsplash.com/photo-1555215695-3004980ad54e
+- 320i: https://images.unsplash.com/photo-1617886903355-9354bb57751f
+- 530i: https://images.unsplash.com/photo-1523983302122-73e869e1f850
+- X3: https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46
+- 730Li: https://images.unsplash.com/photo-1617531653332-bd46c24f2068
+
+## Audi (một phần đã cập nhật)
+- A6: https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6
+- A4: https://images.unsplash.com/photo-1610768764270-790fbec18178
+- Q5: https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a
+- Q7: https://images.unsplash.com/photo-1600712242805-5f78671b24da
+- A8L: https://images.unsplash.com/photo-1614200187524-dc4b892acf16
+
+## Lexus, Porsche, Toyota, Honda, Mazda, Hyundai, Kia, Tesla, Ford
+Tất cả đang dùng cùng 1-2 hình ảnh => CẦN CẬP NHẬT
+
+Hướng dẫn: Thay thế URL hình ảnh trong mock-data.json
+Mỗi xe nên có 3 hình ảnh khác nhau
