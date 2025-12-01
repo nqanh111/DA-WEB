@@ -330,6 +330,13 @@
 
 
 /* Car Cards for Featured Section */
+.featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--spacing-xl);
+    margin-top: var(--spacing-xl);
+}
+
 .featured-section .car-grid {
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
 }
